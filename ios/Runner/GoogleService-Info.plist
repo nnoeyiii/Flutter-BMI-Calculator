@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>932890751658-m0gf6l9thtlj3858sdp2osh32pf8km7l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.932890751658-m0gf6l9thtlj3858sdp2osh32pf8km7l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>932890751658-jvb6p9djtk3s7524m988tlcfu21cskst.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVdEodVImpMSL9O4fjVcQHojkSq1ss_34</string>
+	<key>GCM_SENDER_ID</key>
+	<string>932890751658</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.bmicalculator</string>
+	<key>PROJECT_ID</key>
+	<string>bmi-calculator-login-27979</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bmi-calculator-login-27979.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:932890751658:ios:4208a646564d2ae31296d3</string>
+</dict>
+</plist>

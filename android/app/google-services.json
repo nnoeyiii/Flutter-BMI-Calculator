@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "932890751658",
+    "project_id": "bmi-calculator-login-27979",
+    "storage_bucket": "bmi-calculator-login-27979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932890751658:android:e36b95046d7bf8b71296d3",
+        "android_client_info": {
+          "package_name": "com.flutterflow.bmicalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932890751658-jvb6p9djtk3s7524m988tlcfu21cskst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.bmicalculator",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "932890751658-ff06cunng0mg81uobot714hajlpajt2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWLLM4a_hzPWjO85unqhgXsukxzZUAKPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932890751658-ff06cunng0mg81uobot714hajlpajt2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932890751658-m0gf6l9thtlj3858sdp2osh32pf8km7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.bmicalculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
